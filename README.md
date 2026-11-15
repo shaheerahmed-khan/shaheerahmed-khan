@@ -27,7 +27,7 @@ I'm a computer science student and full-stack developer passionate about AI auto
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheerahmed-khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shaheer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/apiusername=shaheerahmedkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shaheer's GitHub Stats" />
 </p>
 
 <p align="center">
