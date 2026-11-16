@@ -68,14 +68,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaheerahmed-khan&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerahmed-khan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheerahmed-khan&theme=dracula" alt="GitHub Profile Summary" width="100%" />
 
-<img src="https://streak-stats.demolab.com/?user=shaheerahmed-khan&theme=dracula&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaheerahmed-khan&theme=dracula" alt="GitHub Stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheerahmed-khan&theme=dracula" alt="Most Used Languages" height="170" />
 
 </div>
 
-<sub>Some metrics may take a few minutes to update; public/private visibility can affect what appears here.</sub>
+<sub>Metrics are generated from public GitHub activity and may take a little while to refresh.</sub>
 
 ---
 
